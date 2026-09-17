@@ -10,7 +10,7 @@
 🚀 **Project Manager & Product Owner** at **ENIT Junior Enterprise** (Delivered 10+ projects, authored ENIT JE PMBook based on PMBOK® v8).  
 💬 Ask me about **Next.js, NestJS, FastAPI, Docker, Microservices, DevSecOps, LangChain, and Agile Leadership**.  
 📫 **Reach me:** [mohamed.jerbi@etudiant-enit.utm.tn](mailto:mohamed.jerbi@etudiant-enit.utm.tn)  
-🌐 **LinkedIn:** [linkedin.com/in/mohamedjerbi](https://linkedin.com/in/mohamedjerbi) | **GitHub:** [github.com/mohamedjerbi30](https://github.com/mohamedjerbi30)
+🌐 <b>LinkedIn:</b> <a href="https://linkedin.com/in/mohamed-jerbi-899a7b250" target="_blank" rel="noopener noreferrer">linkedin.com/in/mohamedjerbi</a> | <b>GitHub:</b> <a href="https://github.com/mohamedjerbi30" target="_blank" rel="noopener noreferrer">github.com/mohamedjerbi30</a>
 
 ---
 
