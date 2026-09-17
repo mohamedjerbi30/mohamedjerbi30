@@ -61,26 +61,26 @@
 * ⚡ **Smart SIRH Platform (PFA2)** — Microservices architecture integrated with DevSecOps pipelines (linting, tests, security scanning, automated deployment), Prometheus/Grafana monitoring, and an AI Agent for CV analysis & HR recommendations.  
   `Next.js` | `FastAPI` | `Docker` | `LangChain` | `DevSecOps`
 
-* 🧘 **Pilates Studio Reservation & Management Platform** — Commercial application (Josephine Pilates) featuring a client-facing web showcase and an internal management dashboard for dynamic class scheduling, pricing models, and reservation tracking[cite: 1, 2].  
-  `Next.js` | `Node.js` | `Express.js` | `MongoDB` | `Tailwind CSS`
-
-* 🌐 **10+ Custom WordPress Websites** — Designed and delivered over 10 custom WordPress platforms for diverse clients, including showcase sites, e-commerce stores, and custom CMS builds with tailored booking and content systems[cite: 1, 2].  
-  `WordPress` | `Elementor` | `PHP` | `CMS` | `SEO`
-
-* 🔄 **Loops App (Content & Assessment Generation Engine)** — EdTech module using AI algorithms for automated assessment generation, quizzes, skill benchmarks, ordering logic, and category management[cite: 1, 2].  
+* 🔄 **Loops App (Content & Assessment Generation Engine)** — EdTech module using AI algorithms for automated assessment generation, quizzes, skill benchmarks, ordering logic, and category management.  
   `Next.js` | `Node.js` | `Express.js` | `Generative AI`
 
-* 🏢 **Law Firm Management System** — Internal operational management platform for law firms (case files, client tracking, scheduling, and billing) featuring JWT, RBAC, and containerized deployment[cite: 1, 2].  
+* 🧘 **Pilates Studio Reservation & Management Platform** — Commercial application (Josephine Pilates) featuring a client-facing web showcase and an internal management dashboard for dynamic class scheduling, pricing models, and reservation tracking.  
+  `Next.js` | `Node.js` | `Express.js` | `MongoDB` | `Tailwind CSS`
+
+* 🌐 **10+ Custom WordPress Websites** — Designed and delivered over 10 custom WordPress platforms for diverse clients, including showcase sites, e-commerce stores, and custom CMS builds with tailored booking and content systems.  
+  `WordPress` | `Elementor` | `PHP` | `CMS` | `SEO`
+
+* 🏢 **Law Firm Management System** — Internal operational management platform for law firms (case files, client tracking, scheduling, and billing) featuring JWT, RBAC, and containerized deployment.  
   `Next.js` | `Node.js` | `Express.js` | `JWT` | `Docker`
 
-* 🏆 **Forum ENIT Entreprise 2025 Platform** — Official institutional web platform facilitating connections between students and partner enterprises[cite: 1, 2].  
+* 🏆 **Forum ENIT Entreprise 2025 Platform** — Official institutional web platform facilitating connections between students and partner enterprises.  
   `Next.js` | `Node.js`
 
-* 💡 **Hackathon Platform ("Out of the Brief")** — Multi-user management platform for team coordination, submissions, and jury evaluation built for 3SG Group[cite: 1, 2].  
+* 💡 **Hackathon Platform ("Out of the Brief")** — Multi-user management platform for team coordination, submissions, and jury evaluation built for 3SG Group.  
   `Next.js` | `TypeScript` | `Tailwind CSS`
 
-* 👁️ **IoT Real-Time Face Detection** — Embedded surveillance system using hardware vision modules for real-time intruder detection and instant alerts[cite: 1, 2].  
+* 👁️ **IoT Real-Time Face Detection** — Embedded surveillance system using hardware vision modules for real-time intruder detection and instant alerts.  
   `Arduino` | `ArduCam` | `Embedded C/C++`
 
-* 📊 **Breast Cancer Analysis & Clustering (PFA1)** — Unsupervised machine learning model using K-Means clustering integrated into an interactive analytics dashboard[cite: 1, 2].  
+* 📊 **Breast Cancer Analysis & Clustering (PFA1)** — Unsupervised machine learning model using K-Means clustering integrated into an interactive analytics dashboard.  
   `Python` | `K-Means` | `Power BI`
