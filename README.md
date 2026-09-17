@@ -1,4 +1,4 @@
-<img width="1376" height="720" alt="image" src="https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg" /><h1 align="center">Hi 👋, I'm Mohamed Jerbi</h1>
+<h1 align="center">Hi 👋, I'm Mohamed Jerbi</h1>
 
 <p align="center">
   <img width="100%" style="transform: rotate(180deg);" alt="Header Banner" src="https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg" />
