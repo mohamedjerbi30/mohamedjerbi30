@@ -1,7 +1,7 @@
 <img width="1376" height="720" alt="image" src="https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg" /><h1 align="center">Hi 👋, I'm Mohamed Jerbi</h1>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=0072C6&width=550&lines=Full-Stack+%26+DevSecOps+Engineer;AI+Agents+%26+Microservices+Architect;Agile+Product+Owner+%26+Project+Manager" alt="Typing SVG" />
+<p align="center">
+  <img width="100%" style="transform: rotate(180deg);" alt="Header Banner" src="https://raw.githubusercontent.com/sherwinvishesh/sherwinvishesh/main/Public/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.jpg" />
 </p>
 
 # 💫 About Me:
